@@ -1,0 +1,9 @@
+puts "Do you want to see dog images? [Y/N]"
+    reply = gets.chomp
+
+    if reply == 'Y'
+        print "Sorry, you need to stay in CBF mode!"
+    else 
+        print "Congratulations, keep up the CBF!"
+  #Must continue the CBF!!
+  end
